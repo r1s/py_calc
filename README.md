@@ -8,4 +8,5 @@ python py_calc.py "math.pi / 4"
 or
 
 chmod +x py_calc.py
+
 ./py_calc.py "math.pi / 4"
